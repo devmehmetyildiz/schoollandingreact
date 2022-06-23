@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import "../Assets/css/contact.css"
 import emailjs from 'emailjs-com'
 
 const initialState = {
@@ -36,13 +37,13 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
-          <div className='col-md-8'>
+          <div className='col-md-6'>
             <div className='row'>
               <div className='section-title'>
                 <h2>Bize Ulaşın</h2>
                 <p>
-                Bize bir e-posta göndermek için lütfen aşağıdaki formu doldurun;
-                   en kısa sürede size geri dönelim.
+                  Bize bir e-posta göndermek için lütfen aşağıdaki formu doldurun;
+                  en kısa sürede size geri dönelim.
                 </p>
               </div>
               <form name='sentMessage' validate onSubmit={handleSubmit}>
@@ -95,7 +96,8 @@ export const Contact = (props) => {
               </form>
             </div>
           </div>
-          <div className='col-md-3 col-md-offset-1 contact-info'>
+
+          <div className='col-md-2 col-md-offset-1 contact-info'>
             <div className='contact-item'>
               <h3>İletişim Bilgileri</h3>
               <p>
@@ -110,7 +112,8 @@ export const Contact = (props) => {
                 <span>
                   <i className='fa fa-phone'></i> Telefon
                 </span>{' '}
-                {props.data ? props.data.phone : 'loading'}
+                <p> {props.data ? props.data.phone1 : 'loading'}</p>
+                <p> {props.data ? props.data.phone2 : 'loading'}</p>
               </p>
             </div>
             <div className='contact-item'>
@@ -122,6 +125,20 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
+
+          <div className='col-md-2 col-md-offset-1 contact-info'>
+            <div className='contact-item workhours'>
+              <h3>Çalışma Saatleri</h3>
+              <p>  Salı 09:00 - 18:00 </p>
+              <p>Çarşamba 09:00 - 18:00 </p>
+              <p>Perşembe 09:00 - 18:00 </p>
+              <p>Cuma 09:00 - 18:00 </p>
+              <p>Cumartesi 09:00 - 18:00 </p>
+              <p>Pazar Kapalı </p>
+              <p>Pazartesi  Kapalı </p>
+            </div>
+          </div>
+
           <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
@@ -132,13 +149,13 @@ export const Contact = (props) => {
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
-                      <i className='fa fa-twitter'></i>
+                    <a href={props.data ? props.data.instagram : '/'}>
+                      <i className='fa fa-instagram'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : '/'}>
-                      <i className='fa fa-youtube'></i>
+                    <a href={props.data ? props.data.gmail : '/'}>
+                      <i className='fa fa-envelope'></i>
                     </a>
                   </li>
                 </ul>
@@ -148,7 +165,7 @@ export const Contact = (props) => {
         </div>
       </div>
       <div id='footer'>
-       
+
       </div>
     </div>
   )

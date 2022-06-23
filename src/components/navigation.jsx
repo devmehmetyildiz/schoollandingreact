@@ -5,7 +5,7 @@ export const Navigation = (props) => {
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className=' '>
         <div className='navbar-header logoheader'>
-        <img src="img/logo1.jpg" className="img-responsive pagelogo" alt="" />{" "}
+        <img src="img/logonew3.jpeg" className="img-responsive pagelogo" alt="" />{" "}
          
           <a   className='navbar-brand page-scroll ' href='#page-top'>
             Sude Özel Eğitim
@@ -17,33 +17,38 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#features' className='page-scroll'>
-                Kazançlarımız
-              </a>
-            </li>
-            <li>
               <a href='#about' className='page-scroll'>
                 Hakkımızda
               </a>
             </li>
             <li>
+              <a href='#WhyUs' className='page-scroll'>
+                Neden Biz?
+              </a>
+            </li>
+            <li>
+              <a href='#WhoCanJoin' className='page-scroll'>
+                Kimler Faydalanabilir?
+              </a>
+            </li>
+            <li>
+              <a href='#FreeCources' className='page-scroll'>
+                Ücretsiz Programlar
+              </a>
+            </li>
+            <li>
+              <a href='#khkk' className='page-scroll'>
+                KHKK
+              </a>
+            </li>
+            <li>
               <a href='#services' className='page-scroll'>
-                Servislerimiz
+                Programlarımız
               </a>
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
                 Galeri
-              </a>
-            </li>
-            <li>
-              <a href='#testimonials' className='page-scroll'>
-                Referanslar
-              </a>
-            </li>
-            <li>
-              <a href='#team' className='page-scroll'>
-                Takımımız
               </a>
             </li>
             <li>

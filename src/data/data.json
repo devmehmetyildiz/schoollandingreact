@@ -1,102 +1,112 @@
 {
   "Header": {
-    "title": "Başlangıç Sayfası",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "SUDE ÖZEL EĞİTİM MERKEZİ",
+    "paragraph": ""
   },
   "About": {
     "paragraph": 
-    "Kurumumuz Özel Sude Özel Eğitim ve Rehabilitasyon Merkezi , 2018 yılında kurucu temsilcimiz Fizyoterapist Ömer Fatih BELKIRAN ve Fizyoterapist Veysel DAĞ önderliğinde özel gereksinimli bireyleri ‘hep daha ileriye taşımak’ prensibiyle kuruldu. Geldiğimiz noktada birçok hayata dokunmuş, birçok bireyde çok önemli yol katetmiş olmanın verdiği o haklı gururu yaşarken eğitimlerimize hız kesmeden devam ediyoruz."
+    "Kurumumuz Özel Sude Özel Eğitim ve Rehabilitasyon Merkezi , 2018 yılında kurucu temsilcimiz Fizyoterapist Ömer Fatih BELKIRAN ve Fizyoterapist Veysel DAĞ önderliğinde özel gereksinimli bireyleri ‘hep daha ileriye taşımak’ prensibiyle kuruldu. Geldiğimiz noktada birçok hayata dokunmuş, birçok bireyde çok önemli yol kat etmiş olmanın verdiği o haklı gururu yaşarken eğitimlerimize hız kesmeden devam ediyoruz."
     ,
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Bireyin doğuştan veya sonradan oluşmuş yetersizlikleri değerlendirilerek fonksiyonel kapasitesini belirlemek.",
+      "Bireyselleştirilmiş eğitim programı çerçevesinde, zihinsel, fiziksel, duyusal, görsel, konuşma ve dil gelişim güçlüklerini geliştirmek.",
+      "Sosyal, duygusal veya davranış problemleri ile temel öz bakım becerileri kazandırarak bağımsız yaşama adaptasyonlarını sağlamak.",
+      "Koruyucu-önleyici, eğitici-tedavi edici, mesleki rehabilitasyon tekniklerini kullanarak özgüvenlerini geliştirerek topluma adaptasyonlarını artırmak",
+      "Kurum – aile – okul iş birliğinde bilgi paylaşımı yaparak özel eğitim ve rehabilitasyon sektöründe en iyi hizmeti sunmak.",
+      "Ailelere “Aile Rehberliği ve Danışmanlığı” hizmeti sunarak, bilgi ve birikimlerimizi aktarmak."
     ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+    "Why2" : [
+      "Merkezimize %20 ve üzeri engeli olan bireyler başvurabilir.",
+      "Kurumumuzda Milli eğitim bakanlığının belirlediği Fiziksel, zihinsel, özel öğrenme güçlüğü, yaygın gelişimsel(otizm), görme yetersizliği olan bireylere eğitim programları uygulanmaktadır."
+     
+    ]
+    ,
+    "Why3" : [
+      "Gelişme geriliği",
+      "Zihinsel Yetersizlik",
+     "Otizm",
+     "Yaygın Gelişimsel Bozukluk",
+     "Serebral palsi",
+     "Angelman sendromu",
+     "Kromozom anomolisi",
+     "Kas hastalığı",
+     "Brakiyel pleksus"
+    ],
+    "Why4" : [
+     "Dikkat Eksikliği, hiperaktivite bozukluğu",
+     "Down Sendromu",
+     "Özel Öğrenme Güçlüğü",
+     "Hafif Mental Reterdasyon",
+     "Okul uyum problemi",
+     "Okul başarısızlığı",
+     "Davranış bozukluğu",
+     "Multiple skleroz"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Büyütmek İçin Tıklayınız",
+      "largeImage": "img/school/1.jpg",
+      "smallImage": "img/school/1.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Büyütmek İçin Tıklayınız",
+      "largeImage": "img/school/2.png",
+      "smallImage": "img/school/2.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Büyütmek İçin Tıklayınız",
+      "largeImage": "img/school/3.png",
+      "smallImage": "img/school/3.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Büyütmek İçin Tıklayınız",
+      "largeImage": "img/school/5.png",
+      "smallImage": "img/school/5.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Büyütmek İçin Tıklayınız",
+      "largeImage": "img/school/6.png",
+      "smallImage": "img/school/6.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Büyütmek İçin Tıklayınız",
+      "largeImage": "img/school/7.jpg",
+      "smallImage": "img/school/7.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-graduation-cap",
+      "name": "Bedensel Yetersizliği olan bireyler için Destek Eğitim Programı",
+      "text": " "
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Zihinsel Yetersizliği olan bireyler için Destek Eğitim Programı",
+      "text": " "
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Öğrenme Güçlüğü olan bireyler için Destek Eğitim Programı",
+      "text": " "
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+      "name": "Görme Yetersizliği olan bireyler için Destek Eğitim Programı",
+      "text": " "
+    }
+    ,
+    {
+      "icon": "",
+      "name": "",
+      "text": " "
+    }
+    ,
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Otizm Spektrum Bozukluğu olan bireyler için destek eğitim Programı",
+      "text": " "
     }
   ],
   "Testimonials": [
@@ -155,31 +165,28 @@
   ],
   "Contact": {
     "address": "Selçuklu mahallesi 58037. Sokak no:3 Onikişubat/Kahramanmaraş ",
-    "phone": "+90 539 915 2961",
+    "phone1": "+90 539 915 2961",
+    "phone2": "+90 539 915 2961",
     "email": "sudeozelegitim@gmail.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "facebook": "https://www.facebook.com/sudeozelegitim",
+    "instagram": "https://instagram.com/sudeozelegitim?igshid=YmMyMTA2M2Y=",
+    "gmail": "mailto:yildiz655@gmail.com"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Öğrenci Veli Çalışan KHKK",
+      "text": "khkk/öğrenci_veli_çalışan_kvkk.pdf"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Kamera Kullanım KHKK",
+      "text": "khkk/kamera_khkk.pdf"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Tedarikçi Aydınlatma Metni",
+      "text": "khkk/tedarikci_metni.pdf"
     }
   ]
 }
