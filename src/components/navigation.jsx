@@ -18,7 +18,7 @@ export const Navigation = (props) => {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#about' className='page-scroll'>
-                Hakkımızda
+                Biz Kimiz?
               </a>
             </li>
             <li>
@@ -38,7 +38,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#khkk' className='page-scroll'>
-                KHKK
+                KVKK
               </a>
             </li>
             <li>

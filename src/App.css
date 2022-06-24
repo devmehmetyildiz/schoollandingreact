@@ -1,7 +1,7 @@
-@media screen and (max-width: 400px) {
-  #features {
+@media screen and (max-width: 365px) {
+  #khkk {
     padding: 20px;
-    width: 101%;
+    width: 100% + 10px;
   }
   #about,
   #services,
@@ -9,13 +9,59 @@
   #team,
   #contact,
   #footer {
-    width:101%;
+    width:100%+ 10px;
   }
 
   #portfolio {
-    width:101%;
+    width:100%+ 10px;
   }
   #menu{
-    width: 99%;
+    width: 100%+ 10px;
+  }
+}
+
+
+@media screen and (max-width: 350px) {
+  #khkk {
+    padding: 20px;
+    width: 110%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width:110%;
+  }
+
+  #portfolio {
+    width:110%;
+  }
+  #menu{
+    width: 110%;
+  }
+}
+
+
+@media screen and (max-width: 300px) {
+  #khkk {
+    padding: 20px;
+    width: 128%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width:128%;
+  }
+
+  #portfolio {
+    width:128%;
+  }
+  #menu{
+    width: 128%;
   }
 }

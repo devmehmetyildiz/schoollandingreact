@@ -5,10 +5,10 @@ export const Features = (props) => {
       <div style={{ marginTop: '-10px' }} className='container'>
         <div className="row">
           <div style={{ marginBottom: '-10px' }} className='features__title col-md-10 col-md-offset-1 section-title'>
-            <h2 className=" ">KHKK</h2>
+            <h2 className=" ">KVKK</h2>
           </div>
         </div>
-        <div className='row' style={{ marginBottom: '20px', display: 'flex', flexDirection: 'row', justifyContent: 'center', alignItems: 'center' }}>
+       
 
           {props.data
             ? props.data.map((d, i) => (
@@ -25,7 +25,7 @@ export const Features = (props) => {
               </div>
             ))
             : 'Loading...'}
-        </div>
+       
 
       </div>
     </div>

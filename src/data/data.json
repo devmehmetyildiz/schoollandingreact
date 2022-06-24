@@ -82,17 +82,17 @@
       "text": " "
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-graduation-cap",
       "name": "Zihinsel Yetersizliği olan bireyler için Destek Eğitim Programı",
       "text": " "
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-graduation-cap",
       "name": "Öğrenme Güçlüğü olan bireyler için Destek Eğitim Programı",
       "text": " "
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-graduation-cap",
       "name": "Görme Yetersizliği olan bireyler için Destek Eğitim Programı",
       "text": " "
     }
@@ -104,7 +104,7 @@
     }
     ,
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-graduation-cap",
       "name": "Otizm Spektrum Bozukluğu olan bireyler için destek eğitim Programı",
       "text": " "
     }
@@ -164,29 +164,37 @@
     }
   ],
   "Contact": {
-    "address": "Selçuklu mahallesi 58037. Sokak no:3 Onikişubat/Kahramanmaraş ",
-    "phone1": "+90 539 915 2961",
-    "phone2": "+90 539 915 2961",
-    "email": "sudeozelegitim@gmail.com",
+    "address": "SELÇUKLU MAHALLESI 58037. SOKAK NO:3 ONIKIŞUBAT/KAHRAMANMARAŞ",
+    "phone1": "+90 (539) 915 29 61",
+    "phone2": "+90 (553) 433 88 23",
+    "phone3": "+90 (534) 853 68 07",
+    "email1": "sudeozelegitim@gmail.com",
+    "email2": "info@sudeozelegitim.com",
     "facebook": "https://www.facebook.com/sudeozelegitim",
     "instagram": "https://instagram.com/sudeozelegitim?igshid=YmMyMTA2M2Y=",
-    "gmail": "mailto:yildiz655@gmail.com"
+    "gmail": "mailto:info@sudeozelegitim.com"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Öğrenci Veli Çalışan KHKK",
-      "text": "khkk/öğrenci_veli_çalışan_kvkk.pdf"
+      "title": "Öğrenci Veli Çalışan KVKK",
+      "text": "kvkk/öğrenci_veli_çalışan_kvkk.pdf"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Kamera Kullanım KHKK",
-      "text": "khkk/kamera_khkk.pdf"
+      "icon": "fa fa-camera",
+      "title": "Kamera Kullanım KVKK",
+      "text": "kvkk/kamera_kvkk.pdf"
     },
     {
       "icon": "fa fa-group",
       "title": "Tedarikçi Aydınlatma Metni",
-      "text": "khkk/tedarikci_metni.pdf"
+      "text": "kvkk/tedarikci_metni.pdf"
+    }
+    ,
+    {
+      "icon": "fa fa-share",
+      "title": "KVKK Başvuru Formu",
+      "text": "kvkk/kvkk_başvuru_formu_sude_ozel_egitim.pdf"
     }
   ]
 }

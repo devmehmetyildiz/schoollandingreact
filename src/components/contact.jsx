@@ -37,7 +37,7 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
-          <div className='col-md-6'>
+          <div className='col-md-5'>
             <div className='row'>
               <div className='section-title'>
                 <h2>Bize Ulaşın</h2>
@@ -114,6 +114,8 @@ export const Contact = (props) => {
                 </span>{' '}
                 <p> {props.data ? props.data.phone1 : 'loading'}</p>
                 <p> {props.data ? props.data.phone2 : 'loading'}</p>
+                <p> {props.data ? props.data.phone3 : 'loading'}</p>
+
               </p>
             </div>
             <div className='contact-item'>
@@ -121,21 +123,34 @@ export const Contact = (props) => {
                 <span>
                   <i className='fa fa-envelope-o'></i> Email
                 </span>{' '}
-                {props.data ? props.data.email : 'loading'}
+                <p>{props.data ? props.data.email1 : 'loading'}</p> 
+                <p> {props.data ? props.data.email2 : 'loading'}</p>
               </p>
             </div>
           </div>
 
-          <div className='col-md-2 col-md-offset-1 contact-info'>
+          <div style={{minWidth:'180px'}} className='col-md-3 col-md-offset-1 contact-info'>
             <div className='contact-item workhours'>
-              <h3>Çalışma Saatleri</h3>
-              <p>  Salı 09:00 - 18:00 </p>
-              <p>Çarşamba 09:00 - 18:00 </p>
-              <p>Perşembe 09:00 - 18:00 </p>
-              <p>Cuma 09:00 - 18:00 </p>
-              <p>Cumartesi 09:00 - 18:00 </p>
-              <p>Pazar Kapalı </p>
-              <p>Pazartesi  Kapalı </p>
+              <h3 >Çalışma Saatleri</h3>
+              <div style={{display:'inline-block'}}>
+                <span>Salı  </span>
+                <span>Çarşamba </span>
+                <span>Perşembe </span>
+                <span>Cuma  </span>
+                <span>Cumartesi  </span>
+                <span>Pazar  </span>
+                <span>Pazartesi   </span>
+              </div>
+              <div style={{display:'inline-block', marginLeft:'30px'}} >
+                <span>09:00-18:00</span>
+                <span>09:00-18:00</span>
+                <span>09:00-18:00</span>
+                <span>09:00-18:00</span>
+                <span>09:00-18:00</span>
+                <span>Kapalı</span>
+                <span>Kapalı</span>
+              </div>
+
             </div>
           </div>
 
@@ -164,9 +179,7 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-      <div id='footer'>
-
-      </div>
+     
     </div>
   )
 }
